@@ -1,0 +1,11 @@
+<table border="1" class=" default">
+    <?php
+
+    for ($i=1; $i<=10; ++$i){
+        echo '<tr><td>';
+        echo $i . " estamos en segundo de daw".'<br/>';
+        echo '</tr></td>';
+    }
+    ?>
+
+</table>
